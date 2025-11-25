@@ -8,15 +8,6 @@ A faithful port of the beloved **Twilight** color theme from TextMate, optimized
 
 ![Twilight Theme Preview](https://raw.githubusercontent.com/gerane/VSCodeThemes/master/gerane.Theme-Twilight/screenshot.png)
 
-## ✨ Features
-
-- 🎨 **Authentic Colors** - Exact color values from the original TextMate Twilight theme
-- 🌙 **Dark & Warm** - Comfortable for extended coding sessions with a warm color palette
-- 🔍 **Comprehensive Syntax Highlighting** - Optimized for JavaScript, TypeScript, Python, HTML, CSS, JSON, Markdown, C/C++, and more
-- 🎯 **Complete UI Theming** - Every UI element styled including editor, sidebar, terminal, tabs, and panels
-- 📊 **Git Integration** - Clear visual indicators for modified, added, and deleted files
-- 🖥️ **Terminal Support** - Full ANSI color palette for beautiful terminal output
-
 ## 📦 Installation
 
 ### From VS Code Marketplace (Recommended)
@@ -26,14 +17,6 @@ A faithful port of the beloved **Twilight** color theme from TextMate, optimized
 3. Click **Install**
 4. Press `Ctrl+K Ctrl+T` (or `Cmd+K Cmd+T` on Mac)
 5. Select **"Twilight"** from the list
-
-### From GitHub Release
-
-1. Download the latest `.vsix` file from [Releases](https://github.com/devacid/twilight-theme/releases)
-2. Open VS Code
-3. Press `Ctrl+Shift+P` (or `Cmd+Shift+P`)
-4. Type "Extensions: Install from VSIX..."
-5. Select the downloaded `.vsix` file
 
 ### Manual Installation
 
@@ -98,37 +81,6 @@ You can override specific colors in your VS Code settings:
 }
 ```
 
-## 🌐 Supported Languages
-
-This theme has been carefully optimized for:
-
-- JavaScript / TypeScript / Node.js
-- Python
-- HTML / CSS / SCSS / LESS
-- JSON / YAML / TOML
-- Markdown
-- C / C++ / C#
-- Java
-- PHP
-- Ruby
-- Go
-- Rust
-- And many more through TextMate grammar support!
-
-## 📸 Screenshots
-
-*Coming soon - see the preview image above for now*
-
-## 🤝 Contributing
-
-Contributions are welcome! If you find any issues or have suggestions:
-
-1. Fork the repository
-2. Create your feature branch (`git checkout -b feature/amazing-feature`)
-3. Commit your changes (`git commit -m 'Add some amazing feature'`)
-4. Push to the branch (`git push origin feature/amazing-feature`)
-5. Open a Pull Request
-
 ## 📝 Credits & Acknowledgments
 
 This theme is built on the shoulders of giants:
@@ -136,8 +88,9 @@ This theme is built on the shoulders of giants:
 ### Original Creator
 - **Michael Sheets** - Original Twilight theme for TextMate
 
-### Previous Ports
-- **[gerane](https://github.com/gerane)** - VS Code port of Twilight theme ([VSCodeThemes](https://github.com/gerane/VSCodeThemes))
+### Previous Ports \u0026 Inspiration
+- **[gerane](https://marketplace.visualstudio.com/items?itemName=gerane.Theme-Twilight)** - VS Code port that inspired this version
+- **[jrnewell](https://packagecontrol.io/packages/Predawn%20Twilight%20Theme)** - Predawn Twilight Theme for Sublime Text
 
 ### Current Maintainers
 - **[devAcid](https://devacid.xyz)** - Adaptation for Antigravity IDE and VS Code Marketplace
@@ -160,7 +113,6 @@ The original Twilight theme for TextMate was created by Michael Sheets. This por
 - **GitHub**: [devacid/twilight-theme](https://github.com/devacid/twilight-theme)
 - **VS Code Marketplace**: [Twilight Theme](https://marketplace.visualstudio.com/items?itemName=devacid.twilight-theme)
 - **Issues**: [Report a bug](https://github.com/devacid/twilight-theme/issues)
-- **Original TextMate Theme**: [TextMate Twilight](https://github.com/textmate/textmate)
 
 ## ⭐ Show Your Support
 
@@ -171,6 +123,6 @@ If you enjoy this theme, please consider:
 
 ---
 
-**Enjoy coding with Twilight!** 🌅
+**Enjoy coding with Twilight!** 🌃
 
 *Made with ❤️ by devAcid & nicogaldo*

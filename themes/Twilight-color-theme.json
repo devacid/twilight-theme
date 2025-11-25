@@ -209,18 +209,14 @@
             "scope": [
                 "text source"
             ],
-            "settings": {
-                "foreground": "#F8F8F8"
-            }
+            "settings": {}
         },
         {
             "name": "♦ Embedded Source (Bright)",
             "scope": [
                 "text.html.ruby source"
             ],
-            "settings": {
-                "foreground": "#F8F8F8"
-            }
+            "settings": {}
         },
         {
             "name": "♦ Entity inherited-class",
@@ -504,6 +500,15 @@
             ],
             "settings": {
                 "foreground": "#CF6A4C"
+            }
+        },
+        {
+            "name": "Tag ng attribute",
+            "scope": [
+                "entity.other.attribute-name.ng"
+            ],
+            "settings": {
+                "foreground": "#FF9800"
             }
         }
     ]
