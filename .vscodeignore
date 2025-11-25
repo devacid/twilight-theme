@@ -1,0 +1,12 @@
+# Ignore files for VS Code Marketplace packaging
+
+.vscode/**
+.vscode-test/**
+.gitignore
+.vscodeignore
+install-antigravity.sh
+**/*.map
+**/.DS_Store
+**/node_modules/**
+**/bower_components/**
+**/*.vsix

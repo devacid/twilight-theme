@@ -1,0 +1,52 @@
+{
+  "name": "twilight-theme",
+  "displayName": "Twilight Theme",
+  "description": "Classic Twilight color theme from TextMate, ported for VS Code and Antigravity IDE",
+  "version": "1.0.0",
+  "publisher": "devacid",
+  "engines": {
+    "vscode": "^1.60.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "Twilight",
+        "uiTheme": "vs-dark",
+        "path": "./themes/Twilight-color-theme.json"
+      }
+    ]
+  },
+  "author": {
+    "name": "devAcid & nicogaldo",
+    "url": "https://devacid.xyz"
+  },
+  "contributors": [
+    {
+      "name": "devAcid",
+      "url": "https://devacid.xyz"
+    },
+    {
+      "name": "nicogaldo"
+    }
+  ],
+  "keywords": [
+    "theme",
+    "twilight",
+    "dark",
+    "color-theme",
+    "textmate",
+    "classic"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/devacid/twilight-theme"
+  },
+  "homepage": "https://devacid.xyz",
+  "bugs": {
+    "url": "https://github.com/devacid/twilight-theme/issues"
+  },
+  "license": "MIT"
+}
